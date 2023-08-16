@@ -1,3 +1,7 @@
+--Datasets: Covid deaths data, Covid vaccinations data
+--Source: https://ourworldindata.org/covid-deaths, https://ourworldindata.org/covid-vaccinations
+--Queried using: SQL Server Management Studio 19
+
 SELECT *
 FROM PortfolioProject.dbo.CovidDeaths
 ORDER BY 1,2
