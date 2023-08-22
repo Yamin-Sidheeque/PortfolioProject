@@ -1,3 +1,8 @@
+--Datasets: Nashville Housing Data
+--Source: https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data
+--Queried using: SQL Server Management Studio 19
+
+
 /*
 
 Cleaning Data In SQL Queries
